@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import pytest
 
-from pycirclize import Circos
+from pycirclize_TEST import Circos
 
 
 def test_circos_init():

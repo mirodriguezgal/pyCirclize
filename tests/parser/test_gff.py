@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from pycirclize.parser import Gff
+from pycirclize_TEST.parser import Gff
 
 
 def test_parse_complete_genome(prokaryote_testdata_dir: Path):

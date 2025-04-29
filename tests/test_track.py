@@ -4,8 +4,8 @@ import math
 
 import pytest
 
-from pycirclize.sector import Sector
-from pycirclize.track import Track
+from pycirclize_TEST.sector import Sector
+from pycirclize_TEST.track import Track
 
 
 @pytest.fixture

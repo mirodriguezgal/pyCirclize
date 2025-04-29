@@ -1,6 +1,6 @@
 import pytest
 
-from pycirclize.utils import ColorCycler, calc_group_spaces
+from pycirclize_TEST.utils import ColorCycler, calc_group_spaces
 
 
 def test_color_cycler():
